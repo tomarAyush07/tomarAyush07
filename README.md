@@ -1,3 +1,8 @@
+![Github Banner](https://github.com/Jaydeep-Yadav/Jaydeep-Yadav/blob/main/banner.png)
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=0d8eceF&size=30&center=true&vCenter=true&width=550&height=70&lines=Hey+There,+I'm+Ayush+Singh+Tomar;I+Love+Coding;+Web+Developer;Loves+To+Build+Projects;A+Problem+Solver;">
+</p>
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   <h1 align="center">Hi There 👋, I'm Ayush Singh Tomar</h1>
