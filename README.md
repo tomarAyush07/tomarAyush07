@@ -47,6 +47,7 @@ Hi! I'm **Ayush Singh Tomar**, a passionate **Software Engineer** with a love fo
 | Project Name          | Description                                                                                      | Live Demo / Repo |
 |-----------------------|--------------------------------------------------------------------------------------------------|------------------|
 | [Wanderlust Chronicles](https://tomarayush07.github.io/WanderLust-Chronicles/) | A dynamic tours and travel site offering curated itineraries for adventurers worldwide. | [GitHub](https://github.com/tomarAyush07/WanderLust-Chronicles) |
+|.[Book Store](https://tomarayush07.github.io/book-store/).|A simple book store design using html and a bit of CSS .My first website as a biginner.|[GitHub](https://tomarayush07.github.io/book-store/)|
 
 ---
 
